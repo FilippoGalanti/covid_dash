@@ -7,9 +7,15 @@ The data are daily retrieved from <a href="https://covid.ourworldindata.org/data
 
 <b>Prerequisites</b>
 
-To properly run it needs some Python libraries listed in the prerequisitie file.
+To properly run it needs some Python libraries listed in the requirements.txt file.
 
 <b>Output</b>
 
 <img src="https://raw.githubusercontent.com/FilippoGalanti/covid_dash/main/dashboard.PNG" alt="Output Example">
 
+<b>Future Developments</b>
+
+- Improve the overall layout
+- Create a package
+- Add additional information since these are available in the DB fro OurWorldinData (ie. test, hospital admissions, vaccinations, etc ...)
+- Deploy the dashboard online through Heroku platform
